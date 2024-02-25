@@ -1,0 +1,44 @@
+
+[
+    {
+      "ship":"KAMIKAZE",
+      "depart":"tokyo",
+      "arrival":"osaka",
+      "start": "2024-1-12 18:00",
+      "end": "2024-2-12 20:00",
+      "data": [2,30,50,40,50,100]
+    },
+    {
+      "ship":"NAKAJIMA",
+      "depart":"osaka",
+      "arrival":"tokyo",
+      "start": "2024-1-12 19:00",
+      "end": "2024-2-12 21:00",
+      "data": [27,3,89,20,70,10]
+    },
+    {
+      "ship":"YAMATO",
+      "depart":"tokyo",
+      "arrival":"nagoya",
+      "start": "2024-1-12 20:00",
+      "end": "2024-2-12 22:00",
+      "data": [20,67,5,4,40,60]
+    },
+    {
+      "ship":"YAMATO",
+      "depart":"osaka",
+      "arrival":"nagoya",
+      "start": "2024-1-12 21:00",
+      "end": "2024-2-12 23:00",
+      "data": [20,45,50,67,70,10]
+    },
+    {
+      "ship":"NAKAJIMA",
+      "depart":"osaka",
+      "arrival":"tokushima",
+      "start": "2024-1-12 21:00",
+      "end": "2024-2-12 23:00",
+      "data": [2,100,30,20,46,80]
+    }
+  ]
+  
